@@ -82,6 +82,7 @@ pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_17335694
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
 pygame==2.6.1
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1750615794071/work
+PyMySQL==1.1.2
 pyparsing==3.2.5
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1733217236728/work
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
@@ -101,6 +102,7 @@ six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_17
 sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1733244044561/work
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1756330469801/work
 SQLAlchemy==2.0.44
+sqlparse==0.5.3
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
 terminado @ file:///home/conda/feedstock_root/build_artifacts/terminado_1710262609923/work
 tinycss2 @ file:///home/conda/feedstock_root/build_artifacts/tinycss2_1729802851396/work
