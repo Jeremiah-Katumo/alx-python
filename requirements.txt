@@ -96,6 +96,7 @@ rfc3339_validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3339-va
 rfc3986-validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3986-validator_1598024191506/work
 rfc3987-syntax @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rfc3987-syntax_1752876729/work
 rpds-py @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_rpds-py_1756737707/work
+seaborn==0.13.2
 Send2Trash @ file:///home/conda/feedstock_root/build_artifacts/send2trash_1733322040660/work
 setuptools==80.9.0
 six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
