@@ -8,23 +8,29 @@ attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1759762205280/wo
 babel @ file:///home/conda/feedstock_root/build_artifacts/babel_1738490167835/work
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1759146011391/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_bleach_1737382993/work
+blinker==1.9.0
+branca==0.8.2
 Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1756599151967/work
 cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
 certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1759648874697/work/certifi
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1758716108879/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1754767332901/work
 chart-studio==1.1.0
+click==8.3.0
 colorlover==0.3.0
 comm @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_comm_1753453984/work
 contourpy==1.3.3
 cufflinks==0.17.3
 cycler==0.12.1
+dash==3.2.0
 debugpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_debugpy_1758162035/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1740384970518/work
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1746947292760/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1756729339227/work
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-fastjsonschema_1755304154/work/dist
+Flask==3.1.2
+folium==0.20.0
 fonttools==4.60.1
 fqdn @ file:///home/conda/feedstock_root/build_artifacts/fqdn_1733327382592/work/dist
 greenlet==3.2.4
@@ -41,6 +47,7 @@ ipython @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_ip
 ipython_pygments_lexers @ file:///home/conda/feedstock_root/build_artifacts/ipython_pygments_lexers_1737123620466/work
 ipywidgets==8.1.8
 isoduration @ file:///home/conda/feedstock_root/build_artifacts/isoduration_1733493628631/work/dist
+itsdangerous==2.2.0
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1733300866624/work
 Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1755034879854/work
@@ -131,6 +138,8 @@ wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_175862227960
 webcolors @ file:///home/conda/feedstock_root/build_artifacts/webcolors_1733359735138/work
 webencodings @ file:///home/conda/feedstock_root/build_artifacts/webencodings_1733236011802/work
 websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1759928050786/work
+Werkzeug==3.1.3
 widgetsnbextension==4.0.15
+xyzservices==2025.10.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
 zstandard==0.25.0
